@@ -1,0 +1,19 @@
+
+/Cauculadora/nbproject/private/
+
+# Arquivos privados e temporários do NetBeans
+**/nbproject/private/
+**/nbproject/project.properties.OLD*
+
+# Diretórios de compilação e saída
+/Cauculadora/build/
+/Cauculadora/dist/
+**/build/
+**/dist/
+
+# Arquivos de log e temporários do sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
